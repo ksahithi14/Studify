@@ -24,5 +24,5 @@
 * **Asynchronous Request Threading:** Routes user traffic across non-blocking async endpoint workers to prevent system execution stalls during heavy vector queries or long LLM completion windows.
 
 ---
+<img width="1709" height="980" alt="image" src="https://github.com/user-attachments/assets/688873ce-5eec-4d3c-b9d5-9b7a4a7ad6a9" />
 
-<img width="1708" height="981" alt="image" src="https://github.com/user-attachments/assets/766254b8-cbf8-4fc4-902c-58136782dd0c" />
