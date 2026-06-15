@@ -26,3 +26,10 @@
 ---
 <img width="1709" height="980" alt="image" src="https://github.com/user-attachments/assets/688873ce-5eec-4d3c-b9d5-9b7a4a7ad6a9" />
 
+### 3. Setup
+* Clone repo
+* Install requirements.txt
+* **Run local LLM:** ollama run llama3.1
+* **Setup Application servers:**
+* * Backend engine -   uvicorn app:app --reload --port 8000
+  * Start web frontend - streamlit run frontend.py 
