@@ -4,10 +4,10 @@
 
 * **Orchestration Framework:** LangChain (LCEL)
 * **Backend Engine:** FastAPI (Asynchronous ASGI server)
-* **Presentation Layer:** Streamlit (Pure Python multi-page layout engine)
+* **Presentation Layer:** Streamlit 
 * **Vector Database:** ChromaDB (Persistent local embed storage)
 * **Embeddings Model:** Hugging Face (`sentence-transformers/all-MiniLM-L6-v2`)
-* **Inference Model:** Ollama (`llama3.1`) / OpenAI API
+* **Inference Model:** Ollama (`llama3.1`)
 
 ---
 
